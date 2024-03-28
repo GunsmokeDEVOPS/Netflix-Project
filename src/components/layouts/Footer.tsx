@@ -19,7 +19,7 @@ export default function Footer() {
         px: "60px",
       }}
     >
-      <Box>
+      {/* <Box>
         <Divider>
           <Typography color="grey.700" variant="h6">
             Developed by{" "}
@@ -33,7 +33,7 @@ export default function Footer() {
             </Link>
           </Typography>
         </Divider>
-      </Box>
+      </Box> */}
     </Box>
   );
 }
